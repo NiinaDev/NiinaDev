@@ -1,10 +1,3 @@
-### Source
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
 ```python
 """ Test """
 # Make Py2 >>> Py3:
@@ -16,10 +9,3 @@ try:
     from pygments import lex, token
     from pygments.lexers import get_lexer_by_name, guess_lexer
 ```
-
-| Tables | Fmt |
-| -- | -- |
-| !!! hint: wrapped | 0.1 **strong** |
-
-!!! note: title
-    this is a Note
