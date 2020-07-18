@@ -1,16 +1,25 @@
-### Hi there 👋
+### Source
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+```python
+""" Test """
+# Make Py2 >>> Py3:
+import os, sys; reload(sys); sys.setdefaultencoding('utf-8')
+# no? see http://stackoverflow.com/a/29832646/4583360 ...
 
-<!--
-**NiinaDev/NiinaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# code analysis for hilite:
+try:
+    from pygments import lex, token
+    from pygments.lexers import get_lexer_by_name, guess_lexer
+```
 
-Here are some ideas to get you started:
+| Tables | Fmt |
+| -- | -- |
+| !!! hint: wrapped | 0.1 **strong** |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!!! note: title
+    this is a Note
