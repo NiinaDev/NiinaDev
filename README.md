@@ -1,11 +1,3 @@
-```python
-""" Test """
-# Make Py2 >>> Py3:
-import os, sys; reload(sys); sys.setdefaultencoding('utf-8')
-# no? see http://stackoverflow.com/a/29832646/4583360 ...
 
-# code analysis for hilite:
-try:
-    from pygments import lex, token
-    from pygments.lexers import get_lexer_by_name, guess_lexer
-```
+![Nina's github stats](https://github-readme-stats.vercel.app/api?username=NiinaDev&show_icons=true&title_color=fff&icon_color=fe477b&text_color=fff&bg_color=151515)
+
