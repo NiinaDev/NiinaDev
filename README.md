@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left " alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left " alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NiinaDev&show_icons=true&hide_border=true" />
 
 [website]: https://niina.gq
 [twitter]: https://twitter.com/NiinaDev
